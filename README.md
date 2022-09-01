@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4D22AQF7DnsL5LmSvQ/feedshare-shrink_1280/0/1653548099089?e=1665014400&v=beta&t=E-wikMErIgEL-z8p-vXcJ_R2ZNNuBjzrPMhs7AceQH4" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="225" height="300" />
-</p>
 
 <h1 align="center">
 Hi there 👋, I'm Reut Hadad </h1>
