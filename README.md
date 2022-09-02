@@ -1,6 +1,8 @@
 
+![](https://raw.githubusercontent.com/Reut212/Reut212/master/banner.gif)
 
 ## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
+
 <a href="https://www.linkedin.com/in/reut-hadad/">
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
 </a>
