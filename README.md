@@ -1,5 +1,5 @@
 
-![](https://raw.githubusercontent.com/Reut212/Reut212/master/banner.gif)
+<!-- ![](https://raw.githubusercontent.com/Reut212/Reut212/master/banner.gif) -->
 
 ## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
 
