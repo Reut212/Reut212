@@ -14,7 +14,7 @@
 ### 📈 GitHub stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Reut212&theme=dracula"/></p>
 
-## Skills and Experience
+## :computer: Skills and Experience
 ![Angular](https://img.shields.io/badge/ANGULAR-12100E?logo=angular&color=282A36&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-12100E?logo=css3&color=fe6e95&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-12100E?logo=html5&color=282A36&logoColor=white) 
