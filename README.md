@@ -12,7 +12,9 @@
 <p> I'm a Front End Developer at Munters IL and a Computer Science Student </p>
 
 ### 📈 GitHub stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Reut212&theme=dracula"/></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reut212&theme=dracula"/>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Reut212&langs_count=5&theme=dracula)]()
 
 ## :computer: Skills and Experience
 ![Angular](https://img.shields.io/badge/ANGULAR-12100E?logo=angular&color=282A36&logoColor=white) 
