@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/reut-hadad/">
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
 </a>
-<a href="https://Reut212.github.io/">
+<a href="https://github.com/Reut212">
     <img src="https://img.shields.io/badge/GITHUB-12100E?logo=github&color=fe6e95&logoColor=white" />
 </a>
 <p> I'm a Front End Developer at Munters IL and a Computer Science Student </p>
