@@ -11,11 +11,6 @@
 </a>
 <p> I'm a Front End Developer at Munters IL and a Computer Science Student </p>
 
-### 📈 GitHub stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reut212&theme=dracula"/>
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Reut212&langs_count=5&theme=dracula)]()
-
 ## :computer: Skills and Experience
 ![Angular](https://img.shields.io/badge/ANGULAR-12100E?logo=angular&color=282A36&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-12100E?logo=css3&color=fe6e95&logoColor=white) 
@@ -29,6 +24,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-12100E?logo=JavaScript&color=fe6e95&logoColor=white)
 
 <!-- SKILLS-AND-EXPERIENCE:END -->
+
+### 📈 GitHub stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reut212&theme=dracula"/>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Reut212&langs_count=5&theme=dracula)]()
+
 
 ### 🙊 A little laughter for you
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
