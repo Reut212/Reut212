@@ -11,10 +11,6 @@
 </a>
 <p> I'm a Front End Developer at MuntersIL and a Computer Science Student </p>
 
-## :nerd_face: Currently I'm Working On:
-- Flutter app - A project that finds solutions to keep our planet clean and green - Private.
-- Several Angular Projects.
-
 ## :computer: Skills and Experience
 ![Angular](https://img.shields.io/badge/ANGULAR-12100E?logo=angular&color=282A36&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-12100E?logo=css3&color=fe6e95&logoColor=white) 
@@ -28,6 +24,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-12100E?logo=JavaScript&color=fe6e95&logoColor=white)
 
 <!-- SKILLS-AND-EXPERIENCE:END -->
+
+## :nerd_face: Currently I'm Working On:
+- Flutter - A project that finds solutions to keep our planet clean and green - Private.
+- Several Angular Projects.
 
 ### 📈 GitHub stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reut212&theme=dracula"/>
