@@ -25,7 +25,7 @@
 
 <!-- SKILLS-AND-EXPERIENCE:END -->
 
-## :nerd_face: Currently I'm Working On:
+## :gear: Currently I'm Working On:
 - Flutter - A project that finds solutions to keep our planet clean and green - Private.
 - Several Angular Projects.
 
