@@ -27,6 +27,7 @@
 
 ## :gear: Currently I'm Working On:
 - Flutter - A project that finds solutions to keep our planet clean and green - Private.
+- Flutter - A project that simulates a store where you can purchase different products.
 - Several Angular Projects.
 
 ### 📈 GitHub stats
