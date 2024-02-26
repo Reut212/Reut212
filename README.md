@@ -9,7 +9,7 @@
 <a href="https://github.com/Reut212">
     <img src="https://img.shields.io/badge/GITHUB-12100E?logo=github&color=fe6e95&logoColor=white" />
 </a>
-<p> I'm a Computer Science Student </p>
+<p> I'm a Computer science and mathematics graduate. </p>
 
 ## :computer: Skills and Experience
 ![Angular](https://img.shields.io/badge/ANGULAR-12100E?logo=angular&color=282A36&logoColor=white) 
